@@ -14,33 +14,27 @@ const TimelineComp = () => {
       >
         <h3 className="padding-bottom-sm">Software Engineer, Apadmi</h3>
         <p>
-          • &nbsp;Write software in a variety of languages, always ensuring the
-          quality of the work delivered is of the highest standard.
+          • &nbsp;Building the foundations and pushing forward a Web Frontend Culture which consists of a web frontend guild, slack channel for help and support, Q&A sessions, confluence documentations including guides and monthly demo’s - This is something I took ownership of at Apadmi and I am very proud to get the movement started.
         </p>
-        <p>• &nbsp;Independently producing solid engineering solutions.</p>
+        <p>• &nbsp;Architecture diagrams, estimations - including time effort, resources, costs and many more factors for new and existing clients.</p>
         <p>
-          • &nbsp;Liaising with other front-end and back-end developers,
-          designers, testers and implementation staff.
+          • &nbsp;Conducting interviews for juniors and mid level developers.
         </p>
         <p>
-          • &nbsp;Present to the wider team with updates on projects and
-          technology changes.
+          • &nbsp;Liaising with big clients such as Chelsea FC, Dominos, Argos, NHS and Co-op.
         </p>
         <p>
           • &nbsp;Interpreting customer requirements to deliver efficient,
           functional solutions.
         </p>
         <p>
-          • &nbsp;Understand and use development environments and associated
-          tools.
+          • &nbsp;Created bespoke software to support Apadmi with their growth during my spare time.
         </p>
         <p>
-          • &nbsp;Ensuring the high quality of your work – regularly testing and
-          documenting code in line with project policy and subjecting it to code
-          reviews.
+          • &nbsp;Constantly pushing myself to find ways to automate procedures to improve development experience for teams and reduce workloads.
         </p>
         <p>
-          • &nbsp;Assisting in investigating and resolving web/software bugs.
+          • &nbsp;Migrating entire applications from Jenkins to Teamcity.
         </p>
       </TimelineItem>
       <TimelineItem
